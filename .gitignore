@@ -1,0 +1,63 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Mm]emcap/
+
+# Asset Store tools
+**/Assets/AssetStoreTools*
+
+# Plastic SCM
+.plastic/
+**/Assets/Plugins/PlasticSCM*
+*.private
+*.private.meta
+
+# IDE / VS
+.vs/
+.vscode/
+.idea/
+.gradle/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+.vsconfig
+
+# OS
+.DS_Store*
+Thumbs.db
+Desktop.ini
+
+# Builds / packages
+*.apk
+*.aab
+*.app
+*.unitypackage
+sysinfo.txt
+crashlytics-build.properties
+~UnityDirMonSyncFile~*
+UpgradeLog.htm
+
+# Addressables
+**/Assets/AddressableAssetsData/*/*.bin*
+**/Assets/StreamingAssets/aa.meta
+**/Assets/StreamingAssets/*/aa/*
